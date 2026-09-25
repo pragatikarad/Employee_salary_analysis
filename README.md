@@ -1,7 +1,10 @@
 # Employee_salary_analysis
 <img width="1019" height="314" alt="image" src="https://github.com/user-attachments/assets/89a932b3-a492-40ec-8cdd-c370f93c1d3b" />
+
 <img width="331" height="157" alt="image" src="https://github.com/user-attachments/assets/a3d8183e-640f-4726-9aa7-6d0c3695c3dc" />
+
 <img width="328" height="460" alt="image" src="https://github.com/user-attachments/assets/17588b7d-c909-418a-b455-b330d64ae602" />
+
 <img width="358" height="470" alt="image" src="https://github.com/user-attachments/assets/74ebb671-70a9-4689-83d1-1efb213cd389" />
 <img width="291" height="257" alt="image" src="https://github.com/user-attachments/assets/32fbbb89-b87e-4e46-869e-dd18eb7ebf09" />
 <img width="398" height="446" alt="image" src="https://github.com/user-attachments/assets/cae79542-62ff-4bb2-8fbe-1dfde04cd8de" />
